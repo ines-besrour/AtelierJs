@@ -1,0 +1,11 @@
+body{
+    background-color: #ffffff;
+}
+
+.todo-item{
+    background-color: bisque ;
+}
+
+.clickable{
+    cursor: pointer;
+}
